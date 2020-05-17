@@ -18,7 +18,7 @@ public class findOrder {
 
 
     public static void main(String[] args) {
-        int numCourses = 2;
+        int numCourses = 4;
         int[][] prerequisites = {{1, 0}, {2, 0}, {3, 1}, {3, 2}};
 //        int[][] prerequisites = {{0,1}};
 //        int[][] prerequisites = new int[0][];
